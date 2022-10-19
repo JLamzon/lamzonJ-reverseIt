@@ -50,7 +50,7 @@ while (playAgain != "no")
     }
     Console.WriteLine("");
     Console.WriteLine("Do you want to play again?\n\nPress any key or type 'no' to exit...");
-    playAgain = Console.ReadLine();
+    playAgain = Console.ReadLine().ToLower();
 
 }
 Console.WriteLine("Thanks or playing");
