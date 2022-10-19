@@ -1,0 +1,15 @@
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/bin/Debug/net6.0/lamzonJ-reverseIt
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/bin/Debug/net6.0/lamzonJ-reverseIt.deps.json
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/bin/Debug/net6.0/lamzonJ-reverseIt.runtimeconfig.json
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/bin/Debug/net6.0/lamzonJ-reverseIt.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/bin/Debug/net6.0/lamzonJ-reverseIt.pdb
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/obj/Debug/net6.0/lamzonJ-reverseIt.csproj.AssemblyReference.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/obj/Debug/net6.0/lamzonJ-reverseIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/obj/Debug/net6.0/lamzonJ-reverseIt.AssemblyInfoInputs.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/obj/Debug/net6.0/lamzonJ-reverseIt.AssemblyInfo.cs
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/obj/Debug/net6.0/lamzonJ-reverseIt.csproj.CoreCompileInputs.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/obj/Debug/net6.0/lamzonJ-reverseIt.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/obj/Debug/net6.0/refint/lamzonJ-reverseIt.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/obj/Debug/net6.0/lamzonJ-reverseIt.pdb
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/obj/Debug/net6.0/lamzonJ-reverseIt.genruntimeconfig.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-reverseIt/obj/Debug/net6.0/ref/lamzonJ-reverseIt.dll
