@@ -6,53 +6,25 @@
 
 Console.Clear();
 
-bool trueNumber;
-int validNumber;
-
-Console.WriteLine("Let's count backwards");
-
-Console.WriteLine("Please provide your name\n");
-string playerName = Console.ReadLine().ToUpper();
-
-//update string to char array
-char[] strArray = playerName.ToCharArray();
-//reverse user input
-Array.Reverse(strArray);
-string reverse = new string(strArray);
-Console.WriteLine($"Thanks {reverse}");
-
-Console.WriteLine("Hmmm, your name was backwards.  Let's fix that...");
-Console.WriteLine("");
-
 string playAgain = "yes";
 
 while (playAgain != "no")
 {
-    while (true)
-    {
-        Console.WriteLine($"{playerName}, enter some numbers and ill reverse it");
-        Console.WriteLine("");
-        string userNumber = Console.ReadLine();
-        trueNumber = Int32.TryParse(userNumber, out validNumber);
+    Console.WriteLine("Enter some characters to reverse it!\n");
+    string userInput = Console.ReadLine();
 
-        if (trueNumber == false)
-        {
-            Console.WriteLine("Are you using too many numbers or yet using letters? You got this, try again!\n");
-        }
-        else
-        {
-            strArray = userNumber.ToCharArray();
-            Array.Reverse(strArray);
-            reverse = new string(strArray);
-            Console.WriteLine($"You entered {userNumber} and reverse is {reverse}");
-            break;
-        }
+    Console.WriteLine($"\nYour input:\n{userInput}");
+    
+    //for loop setting up condition to repeat user input in reverse
+    Console.WriteLine("\nYour input in reverse:");
+    for (int i = userInput.Length - 1; i >= 0; i--)
+    {
+        Console.Write(userInput[i]);
     }
-    Console.WriteLine("");
+    
+    Console.WriteLine("\n");
     Console.WriteLine("Do you want to play again?\n\nPress any key or type 'no' to exit...");
     playAgain = Console.ReadLine().ToLower();
-
 }
+
 Console.WriteLine("Thanks or playing");
-
-
